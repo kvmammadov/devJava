@@ -39,7 +39,5 @@ public class Human {
         km.setSex("Yaxsi Oglan");
         km.print();
               
-        
-    }
-    
+    }   
 }
